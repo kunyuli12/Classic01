@@ -22,7 +22,7 @@ struct TestOne: View {
                     .padding(30)
                     .foregroundColor(.gray)
                 Text("我是排版一")
-                    .font(.title2)
+                    .font(.title)
                     .bold()
                 
             }
